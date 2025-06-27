@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mashi\\source\\repos\\ForIteration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1E0814-15A8-4CF4-AB79-9EB3E4E34B69}|ForIteration\\ForIteration.csproj|c:\\users\\mashi\\source\\repos\\foriteration\\foriteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1E0814-15A8-4CF4-AB79-9EB3E4E34B69}|ForIteration\\ForIteration.csproj|solutionrelative:foriteration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mashi\\source\\repos\\ForIteration\\ForIteration\\Program.cs",
+              "RelativeDocumentMoniker": "ForIteration\\Program.cs",
+              "ToolTip": "C:\\Users\\mashi\\source\\repos\\ForIteration\\ForIteration\\Program.cs",
+              "RelativeToolTip": "ForIteration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T04:41:23.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
