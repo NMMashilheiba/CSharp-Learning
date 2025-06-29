@@ -19,11 +19,15 @@
 		}
 		catch (Exception exMsg)
 		{
+			// Generic exception
 			Console.WriteLine("There was a problem!");
 			Console.WriteLine(exMsg);
 		}
 		finally
 		{
+			// Code to finallize
+			// Setting objects to Null
+			// Clossing file or database connection
 			Console.WriteLine("Finally block: Finally block is always executed.");
 		}
 
